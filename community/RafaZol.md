@@ -9,7 +9,7 @@
 <div>
     <h2>Conecte-se comigo</h2>
     <p>
-   <a href="https://www.linkedin.com/in/rafaelzolet101/" /> 
+   <a href="https://www.linkedin.com/in/rafaelzolet101/"></a>  
 </p>
    </div>
 <br>
