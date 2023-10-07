@@ -8,8 +8,10 @@
 </div>
 <div>
     <h2>Conecte-se comigo</h2>
+    <p>
    <a href="https://www.linkedin.com/in/rafaelzolet101/" /> 
-</div>
+</p>
+   </div>
 <br>
 <br>
 
